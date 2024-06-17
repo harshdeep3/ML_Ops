@@ -1,0 +1,26 @@
+# This is an example YAML files follows the course.
+
+my_course: "ML OPs boot-camp"
+version: 1.0
+price: 10.99
+is_public: true
+release_date: 2024-05-17 # date format is year-month-day
+enrolled: null
+dev_details:
+  - name: "Name1"
+    email: "email1@gmail.com"
+    role: "Admin"
+  - name: "Name2"
+    email: "email2@gmail.com"
+    role: "Support"
+  - {name: "Name2", email: "email2@gmail.com", role: "Support"}
+
+short_desc: >
+  This is an example of creating a YAML.
+  The whole course is for ML OPs.
+
+short_desc: |
+  This is an example of creating a YAML.
+  The whole course is for ML OPs.
+  This is an example for a multi line 
+  which is longer.
