@@ -3,6 +3,8 @@ This repo covers the course for a ML ops course. This will use Google Colab, so 
 
 This course has a Udemy course -> [link](https://www.udemy.com/course/mlops-bootcamp-mastering-ai-operations-for-success-aiops/?couponCode=ST19MT61724).
 
+Presentation for the course is available on [link](https://workdrive.zohopublic.in/external/a72fdf5f2985d1f4d7fe40ca2ef81c3150963d25c9c3dca61178fab4537e298f)
+
 ## Course Content 
 This course covers 
 
