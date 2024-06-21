@@ -8,8 +8,8 @@ Presentation for the course is available on [link](https://workdrive.zohopublic.
 ## Course Content 
 This course covers 
 
-* An intro to Python 
-* An intro to GitHub
+* An intro to Python (Skipped)
+* An intro to GitHub (Skipped)
 * Crash Course on YAML
 * Packaging in ML models
 * ML Flow
