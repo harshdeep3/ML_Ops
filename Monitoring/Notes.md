@@ -24,3 +24,23 @@ Model drift is a scenario where, a ML model is not performing as per the SLA (Se
 
 * Concept Shift - Refers to the in relationship between independent and dependent variables. This occurs when the relationship between the independent and dependent variables changes. 
 
+### Techniques to detect drift in ML
+
+Use of basic statistical metrics such as mean, standard deviation, correlation and comparisons of min and max values can gauge drift between training and current independent variables.
+
+Distance measure  (population stability index (PSI), etc...) are suitable for continuous features when assessing drift. 
+
+#### Categorical data
+
+Can use cardinality checks, chi-squared test and entropy.
+
+### Platforms & libraries
+These can be used to detect drift
+#### Platforms
+* WhyLabs 
+#### Libraries
+* Deepchecks
+* alibi-detect
+
+### Address the drift issues
+![Drift issues fixes](image.png)
