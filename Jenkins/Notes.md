@@ -32,3 +32,5 @@ Git is used as version control. A notification can be sent when a new version co
 Once CI step has been implemented, the model can be trained (training step). Which leads to the testing of the model, which can be done using pydantic. 
 
 If the new version passes the test, the model can be deployed to docker container, change the version of model. A notification is sent to the team, about the model update. 
+
+**The course shows how to work with CI/CD flow using Git, Jenkins, dockers and AWS.**
