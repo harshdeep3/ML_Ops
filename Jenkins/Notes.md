@@ -25,7 +25,7 @@ A CI server which manages and control processes such as plan, code, build, test,
 
 ## Project Flow/Example
 
-![Alt text](image.png)
+![ML Ops project flow](image.png)
 
 Git is used as version control. A notification can be sent when a new version code has been uploaded to Git. Webhook can be configured to trigger notification of new code, to Jenkins. Jenkins create a pull request for the latest version of the code. (CI Step)
 
@@ -34,3 +34,4 @@ Once CI step has been implemented, the model can be trained (training step). Whi
 If the new version passes the test, the model can be deployed to docker container, change the version of model. A notification is sent to the team, about the model update. 
 
 **The course shows how to work with CI/CD flow using Git, Jenkins, dockers and AWS.**
+![CI/CD Pipeline](image-1.png)
