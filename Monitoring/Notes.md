@@ -38,6 +38,8 @@ Can use cardinality checks, chi-squared test and entropy.
 These can be used to detect drift
 #### Platforms
 * WhyLabs 
+* Prometheus
+* Grafana
 #### Libraries
 * Deepchecks
 * alibi-detect
